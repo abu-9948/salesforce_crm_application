@@ -8,8 +8,8 @@ EduConsultPro is a comprehensive Salesforce CRM solution tailored for educationa
 
 
 ## Demonstration
+[![EduConsultPro Demo](http://img.youtube.com/vi/OCMvuwKDY7g/0.jpg)](https://youtu.be/OCMvuwKDY7g "EduConsultPro Demonstration Video")
 
-[![EduConsultPro Demo](http://img.youtube.com/vi/tdC1aOKQyfY/0.jpg)](https://www.youtube.com/watch?v=tdC1aOKQyfY "EduConsultPro Demonstration Video")
 
 
 Watch the video above for a complete demonstration of EduConsultPro's features and functionality.
@@ -67,11 +67,7 @@ Watch the video above for a complete demonstration of EduConsultPro's features a
 * **Approval Processes:**  Appointment approval workflow with manager-based routing and email notifications for submissions, approvals, and rejections.
 
 
-* **Apex Triggers:**
-    * **`StudentTrigger`:**  This trigger automatically creates a welcome case when a new student record is inserted.  The case is used to track the student's onboarding process.
-    * **`AppointmentTrigger`:** This trigger performs the following actions:
-        * **Before Insert/Update:** Validates that appointments are scheduled during business hours (9 AM to 5 PM) and that the chosen consultant is available at the requested time.
-        * **After Insert:** Sends email notifications to both the student and the consultant confirming the newly scheduled appointment.
+
 ### User Interface
 
 * **Lightning Components:**
@@ -140,15 +136,11 @@ Watch the video above for a complete demonstration of EduConsultPro's features a
 
 ## Author
 
-**MOKA MANOJ KUMAR**<br>
+**Abu Bakar Siddique Shaik**<br>
 Gayatri Vidya Parishad College of Engineering(A), Visakhapatnam<br>
-Roll Number: 21131A05C3<br>
-Email: 21131a05c3@gvpce.ac.in
+Roll Number: 21131A1247<br>
+Email: 21131a1247@gvpce.ac.in
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
